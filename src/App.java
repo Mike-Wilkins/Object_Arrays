@@ -3,7 +3,7 @@ public class App {
 
 	public static void main(String[] args) {
 		
-Shape[] rectangles = new Shape[5];
+		Shape[] rectangles = new Shape[5];
 		
 		int widthMultiplier = 10;
 		
